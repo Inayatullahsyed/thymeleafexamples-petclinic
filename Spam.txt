@@ -4,6 +4,4 @@ Again Doing good
 Hello What is your name
 Abcd
 ABCD
-Hey Where are you?
-iam here
-ok bye
+Hey Where are you
